@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; width: 100%;">
+<!-- <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
-</div>
+</div> -->
 <!-- <a target="blank" href="https://profile-counter.glitch.me/dyk-work/count.svg"><p align="center">💖 Visited Counts 💖<br></p></a> -->
 
 ---
