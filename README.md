@@ -1,6 +1,6 @@
-<!-- <div style="display: flex; justify-content: center; width: 100%;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
-</div> -->
+</p>
 <a target="blank" href="https://profile-counter.glitch.me/dyk-work/count.svg">
   <p align="center"> 
     💖 Visited Counts 💖<br>
@@ -9,21 +9,11 @@
 </a>
 
 ---
-<!-- 
-## 🤗 Welcome
 
-<p align=center>
-<div align=center>
-<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=dyk-work&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=dyk-work&theme=onedark" />
-<br>
-<br>
-<br>
-</div>
-</p>
+<!-- ## 🤗 Welcome
 
-<br><br><br>
--->
+<br><br><br> -->
+
 
 ## 🙋‍♂️ About Me
 
